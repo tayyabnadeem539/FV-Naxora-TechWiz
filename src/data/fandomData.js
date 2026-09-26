@@ -315,7 +315,7 @@ const FANDOM_DATA = {
       "name": "Master Chief (John-117)",
       "category": "gaming",
       "series": "Halo Infinite",
-      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/Fssh4RCZ/masterchief.jpg",
       "traits": [
         "SPARTAN-II Neural Augmentations",
         "Mjolnir Powered Assault Armor",
@@ -332,7 +332,7 @@ const FANDOM_DATA = {
       "name": "Ellie Williams",
       "category": "gaming",
       "series": "The Last of Us Part II",
-      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/yYdCGGWn/ellie.jpg",
       "traits": [
         "Cordyceps Immunity",
         "Guerilla Combat Specialist",
@@ -349,7 +349,7 @@ const FANDOM_DATA = {
       "name": "Link",
       "category": "gaming",
       "series": "The Legend of Zelda: Tears of the Kingdom",
-      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/4d5jLvgB/link.jpg",
       "traits": [
         "Triforce of Courage",
         "Master Sword Champion",
@@ -366,7 +366,7 @@ const FANDOM_DATA = {
       "name": "Cloud Strife",
       "category": "gaming",
       "series": "Final Fantasy VII Rebirth",
-      "image": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/TYhB0W4M/cloud.jpg",
       "traits": [
         "Buster Sword Mastery",
         "Mako Infusion Enhancements",
@@ -383,7 +383,7 @@ const FANDOM_DATA = {
       "name": "Batman (Bruce Wayne)",
       "category": "movies",
       "series": "The Dark Knight Trilogy",
-      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/tC2Wqsq7/download.jpg",
       "traits": [
         "Genius-Level Intellect",
         "Ninjutsu & Martial Arts",
@@ -400,7 +400,7 @@ const FANDOM_DATA = {
       "name": "Neo (Thomas Anderson)",
       "category": "movies",
       "series": "The Matrix",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/pXTyBqH7/Neo-portrait-matrix-thematrix-neo.jpg",
       "traits": [
         "Code Manipulation",
         "Bullet-Time Agility",
@@ -417,7 +417,7 @@ const FANDOM_DATA = {
       "name": "Paul Atreides",
       "category": "movies",
       "series": "Dune: Part Two",
-      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/nVdhMBDN/Muad-dib.jpg",
       "traits": [
         "Prescient Spice Sight",
         "Bene Gesserit Voice",
@@ -434,7 +434,7 @@ const FANDOM_DATA = {
       "name": "Ellen Ripley",
       "category": "movies",
       "series": "Alien / Aliens",
-      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/rmVqwwFk/Ellen-Ripley.jpg",
       "traits": [
         "Survival Tenacity",
         "Power Loader Mastery",
@@ -451,7 +451,7 @@ const FANDOM_DATA = {
       "name": "Luke Skywalker",
       "category": "movies",
       "series": "Star Wars: The Empire Strikes Back",
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/zGTNwgV6/download-(1).jpg",
       "traits": [
         "Jedi Force Affinity",
         "Green Lightsaber Mastery",
@@ -468,7 +468,7 @@ const FANDOM_DATA = {
       "name": "Indiana Jones",
       "category": "movies",
       "series": "Raiders of the Lost Ark",
-      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/QtyvZ8FF/download-(2).jpg",
       "traits": [
         "Bullwhip Precision",
         "Archaelogical Erudition",
@@ -485,7 +485,7 @@ const FANDOM_DATA = {
       "name": "Walter White",
       "category": "tv-shows",
       "series": "Breaking Bad",
-      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/RV54Wd0N/download-(7).jpg",
       "traits": [
         "Master Chemist",
         "Ruthless Strategist",
@@ -502,7 +502,7 @@ const FANDOM_DATA = {
       "name": "Eleven (Jane Hopper)",
       "category": "tv-shows",
       "series": "Stranger Things",
-      "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/tgMHptf4/Jane-hopper-(eleven).jpg",
       "traits": [
         "Telekinesis & Telepathy",
         "Interdimensional Portal Rifting",
@@ -519,7 +519,7 @@ const FANDOM_DATA = {
       "name": "Daemon Targaryen",
       "category": "tv-shows",
       "series": "House of the Dragon",
-      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/PfZknDMW/Daemon-Targaryen-4K.jpg",
       "traits": [
         "Dragonrider of Caraxes",
         "Dark Sister Valyrian Steel",
@@ -536,7 +536,7 @@ const FANDOM_DATA = {
       "name": "Tommy Shelby",
       "category": "tv-shows",
       "series": "Peaky Blinders",
-      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/vZ8RnNwv/Peaky-Blinders-Outfit-Suit-Hat-Shirt-Coat-Boots.jpg",
       "traits": [
         "World War I Trench Veteran",
         "Psychological Chess Master",
@@ -553,7 +553,7 @@ const FANDOM_DATA = {
       "name": "Sherlock Holmes",
       "category": "tv-shows",
       "series": "Sherlock (BBC)",
-      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/Y0BZCXxY/Benedict-Cumberbatch-as-Sherlock-Holmes-2-01-Scandal-in-Belgravia.jpg",
       "traits": [
         "Mind Palace Deductions",
         "High-Functioning Sociopath",
@@ -570,7 +570,7 @@ const FANDOM_DATA = {
       "name": "Joel Miller",
       "category": "tv-shows",
       "series": "The Last of Us (HBO)",
-      "image": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/8PDx805K/Joel-Miller.jpg",
       "traits": [
         "Survival Tactician",
         "Marksmanship & Brawling",
@@ -587,7 +587,7 @@ const FANDOM_DATA = {
       "name": "RM (Kim Namjoon)",
       "category": "k-pop",
       "series": "BTS (Big Hit Music / HYBE)",
-      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/pT3CWpRy/rm.jpg",
       "traits": [
         "Leader & Lyricist",
         "Philosophical Art Curator",
@@ -604,7 +604,7 @@ const FANDOM_DATA = {
       "name": "Jennie Kim",
       "category": "k-pop",
       "series": "BLACKPINK (YG Entertainment / OA)",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/ZqMFHCB0/download-(15).jpg",
       "traits": [
         "Main Rapper & Vocalist",
         "Global Fashion Icon",
@@ -621,7 +621,7 @@ const FANDOM_DATA = {
       "name": "Felix (Lee Yongbok)",
       "category": "k-pop",
       "series": "Stray Kids (JYP Entertainment)",
-      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/65rkPNfF/Felix-at-TMA-2025.jpg",
       "traits": [
         "Iconic Bass Voice",
         "Main Dancer Precision",
@@ -655,7 +655,7 @@ const FANDOM_DATA = {
       "name": "Hanni Pham",
       "category": "k-pop",
       "series": "NewJeans (ADOR / HYBE)",
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/5NSr3SfG/download-(16).jpg",
       "traits": [
         "Silky R&B Vocals",
         "Multi-Instrumentalist",
@@ -672,7 +672,7 @@ const FANDOM_DATA = {
       "name": "Jungkook (Jeon Jungkook)",
       "category": "k-pop",
       "series": "BTS (Big Hit Music / HYBE)",
-      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/CKz6wybR/download-(17).jpg",
       "traits": [
         "Golden Maknae Versatility",
         "Billboard Hot 100 #1 Soloist",
@@ -689,7 +689,7 @@ const FANDOM_DATA = {
       "name": "Spider-Man (Peter Parker)",
       "category": "comics",
       "series": "Marvel Comics",
-      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/50kz1Gqc/download-(23).jpg",
       "traits": [
         "Spider-Sense",
         "Wall-Crawling Agility",
@@ -706,7 +706,7 @@ const FANDOM_DATA = {
       "name": "Batman (DC Comics)",
       "category": "comics",
       "series": "DC Comics",
-      "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/26vbWxsz/Batman-batman-batmancomics-batmancosplay-dc-dccomics-dcuniverse-dcstudios-dclegends-aiart.jpg",
       "traits": [
         "World's Greatest Detective",
         "Master of All Martial Arts",
@@ -723,7 +723,7 @@ const FANDOM_DATA = {
       "name": "Wolverine (Logan)",
       "category": "comics",
       "series": "X-Men (Marvel Comics)",
-      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/26p3CZ1p/Wolverine-(James-Logan-Howlett)-X-MEN.jpg",
       "traits": [
         "Adamantium Skeleton & Claws",
         "Accelerated Healing Factor",
@@ -740,7 +740,7 @@ const FANDOM_DATA = {
       "name": "Wonder Woman (Diana Prince)",
       "category": "comics",
       "series": "DC Comics",
-      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/0yFyCwd9/download-(24).jpg",
       "traits": [
         "Lasso of Truth",
         "Indestructible Bracelets of Submission",
@@ -757,7 +757,7 @@ const FANDOM_DATA = {
       "name": "Spawn (Al Simmons)",
       "category": "comics",
       "series": "Image Comics",
-      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/prcHXwsy/Al-Simmons.jpg",
       "traits": [
         "Necroplasmic Suit & Chains",
         "Hellspawn Symbiosis",
@@ -774,7 +774,7 @@ const FANDOM_DATA = {
       "name": "Deadpool (Wade Wilson)",
       "category": "comics",
       "series": "Marvel Comics",
-      "image": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/wMGCdhBt/Deadpool-(Wade-Wilson)-X-MEN.jpg",
       "traits": [
         "Fourth-Wall Awareness",
         "Supreme Regenerative Factor",
@@ -791,7 +791,7 @@ const FANDOM_DATA = {
       "name": "Roronoa Zoro",
       "category": "manga",
       "series": "One Piece",
-      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/SRJPVJGq/download-(25).jpg",
       "traits": [
         "Three-Sword Style (Santoryu)",
         "Enma Blade Tamer",
@@ -808,7 +808,7 @@ const FANDOM_DATA = {
       "name": "Guts",
       "category": "manga",
       "series": "Berserk",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/SsK1NJ3W/Guts-A-furia-do-guerreiro-Berserk.jpg",
       "traits": [
         "Dragon Slayer Greatsword",
         "Berserker Armor",
@@ -825,7 +825,7 @@ const FANDOM_DATA = {
       "name": "Denji",
       "category": "manga",
       "series": "Chainsaw Man",
-      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/T3JXK57L/Chainsaw-Man-Follow-for-more.jpg",
       "traits": [
         "Chainsaw Devil Hybrid",
         "Cord-Pull Ripcord Transformation",
@@ -842,7 +842,7 @@ const FANDOM_DATA = {
       "name": "Ken Kaneki",
       "category": "manga",
       "series": "Tokyo Ghoul",
-      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/MTjPjh6F/download-(29).jpg",
       "traits": [
         "One-Eyed Ghoul Rinkaku",
         "Centipede Kakuja",
@@ -859,7 +859,7 @@ const FANDOM_DATA = {
       "name": "Thorfinn Karlsefni",
       "category": "manga",
       "series": "Vinland Saga",
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/3JZLpjhy/Thorfinn-(Vinland-Saga).jpg",
       "traits": [
         "Dual Dagger Mastery",
         "Extreme Agility",
@@ -876,7 +876,7 @@ const FANDOM_DATA = {
       "name": "Loid Forger (Twilight)",
       "category": "manga",
       "series": "Spy x Family",
-      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/nLNTZ046/loid-forger.jpg",
       "traits": [
         "Master of Disguise",
         "Psychiatric Cover Identity",
@@ -1374,7 +1374,7 @@ const FANDOM_DATA = {
       "franchise": "Stranger Things",
       "price": 34,
       "priceRange": "$30.00 - $38.00",
-      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/zf354X77/Stranger-Things-Hellfire-Club-Replica-TV-Series-Adult-Halloween-Cosplay-Costume-T-Shirt-3XL.jpg",
       "description": "Classic 3/4 black sleeve vintage jersey with the legendary D&D Hellfire Club horned devil graphic worn by Eddie Munson.",
       "inStock": true,
       "rating": 4.9,
@@ -1388,7 +1388,7 @@ const FANDOM_DATA = {
       "franchise": "Game of Thrones",
       "price": 88,
       "priceRange": "$80.00 - $95.00",
-      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/3RsKX5g2/Light-up-dragon-egg.jpg",
       "description": "Heavyweight solid stone-textured bookends modeled directly after the Blood Wyrm's crimson scaled clutches.",
       "inStock": true,
       "rating": 4.8,
@@ -1402,7 +1402,7 @@ const FANDOM_DATA = {
       "franchise": "BTS",
       "price": 65,
       "priceRange": "$60.00 - $70.00",
-      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/mgbgXjCV/BTS-Lightstick.jpg",
       "description": "Official Army Bomb concert lightstick equipped with Bluetooth 5.0 wireless venue sync, seven member color modes, and seven photo cards.",
       "inStock": true,
       "rating": 5,
@@ -1416,7 +1416,7 @@ const FANDOM_DATA = {
       "franchise": "aespa",
       "price": 49,
       "priceRange": "$45.00 - $55.00",
-      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/wjvdRGhp/image.jpg",
       "description": "180g silver splatter vinyl featuring gatefold metallic foil sleeve, 28-page lyric artbook, and exclusive hologram photocard set.",
       "inStock": true,
       "rating": 4.9,
@@ -1430,7 +1430,7 @@ const FANDOM_DATA = {
       "franchise": "Spider-Man",
       "price": 44,
       "priceRange": "$40.00 - $48.00",
-      "image": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/tgnwh1DB/Amazing-Spider-Man-Spider-Man-art-for-your-Game-Room-Displate.jpg",
       "description": "High-definition magnetic mounted metal art plate celebrating Amazing Fantasy #15 in vibrant UV-cured matte finish.",
       "inStock": true,
       "rating": 4.8,
@@ -1444,7 +1444,7 @@ const FANDOM_DATA = {
       "franchise": "Berserk",
       "price": 36,
       "priceRange": "$32.00 - $40.00",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/RZBWrfJ8/Berserk-Dragon-Slayer.jpg",
       "description": "Solid stainless steel miniature replica of Guts' iconic slab sword mounted on a Brand of Sacrifice obsidian stone display block.",
       "inStock": true,
       "rating": 4.9,
@@ -1458,7 +1458,7 @@ const FANDOM_DATA = {
       "franchise": "Chainsaw Man",
       "price": 32,
       "priceRange": "$28.00 - $35.00",
-      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/BQW6DDgd/Close-Icon.jpg",
       "description": "Ultra-soft premium plushie with embroidered eyes, padded fabric chainsaw blade, and tail starter cord.",
       "inStock": true,
       "rating": 5,
@@ -1472,7 +1472,7 @@ const FANDOM_DATA = {
       "franchise": "Batman",
       "price": 95,
       "priceRange": "$90.00 - $105.00",
-      "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=800&q=80",
+      "image": "https://i.postimg.cc/3RmMHyvL/batman-fyp-dc-dcu-anime-art-comics.jpg",
       "description": "Deluxe hardcover omnibus gathering Jim Lee and Jeph Loeb's historic mystery run with annotated sketchbooks and slipcase.",
       "inStock": true,
       "rating": 4.9,
@@ -3515,128 +3515,128 @@ const FANDOM_DATA = {
       {
         "title": "Elden Ring: The Land of Shadow Skybox",
         "caption": "The spiraling shadow tree bleeding golden light over ancient graves.",
-        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/8zS9Snz9/Elden-ring.jpg"
       },
       {
         "title": "God of War Ragnarök: Midgard Frost",
         "caption": "Fimbulwinter snow covered frozen lake and Tyr's temple.",
-        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/02LXCXSD/Jhon-Daniel-s-Bando-do-Gato-(-jjhondanielsd)-on-X-(1).jpg"
       },
       {
         "title": "Grand Theft Auto VI: Vice City Coastline",
         "caption": "Neon art deco hotels reflected in crystal Atlantic surf.",
-        "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/QCKk9s0g/Grand-Theft-Auto-VI-Wallpaper-(1).jpg"
       },
       {
         "title": "Ghost of Yotei: Autumn Maple Forest",
         "caption": "Crimson foliage drifting around the sacred volcanic peak.",
-        "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/GtDg0kwt/Mount-Yotei-Wallpaper-4K-Atsu-(Ghost-of-Yotei).jpg"
       },
       {
         "title": "The Witcher 3: Kaer Morhen Valley",
         "caption": "The ancient mountain fortress illuminated by sunset.",
-        "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/ydMnTkgK/The-Witcher-3-Wild-Hunt.jpg"
       },
       {
         "title": "Cyberpunk 2077: Night City Skyline",
         "caption": "Towering megabuildings shrouded in perpetual corporate smog.",
-        "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/vHzL4PzG/Ville-Cyberpunk-(1).jpg"
       }
     ],
     "movies": [
       {
         "title": "Dune: Part Two: Arrakis Sand Dunes",
         "caption": "Sweeping panoramic desert vista under harsh twin suns.",
-        "image": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/7P1QNnV3/Dune-2.jpg"
       },
       {
         "title": "The Dark Knight: Gotham City at Midnight",
         "caption": "Gothic skyscrapers pierced by searchlights.",
-        "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/h40pmPD8/Aaron-Eckhart.jpg"
       },
       {
         "title": "Blade Runner 2049: The Orange Wasteland",
         "caption": "Decaying brutalist statues emerging from dust storms.",
-        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/rw7JTDjM/Blade-Runner-2049-Cinematic-Orange-Aesthetic-Wallpaper.jpg"
       },
       {
         "title": "Interstellar: The Gargantua Black Hole",
         "caption": "Accretion disk rendered using relativistic astrophysical simulations.",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/9fGGjJzP/Interstellar.jpg"
       },
       {
         "title": "Oppenheimer: The Trinity Fireball",
         "caption": "Practical photochemical detonation captured on 70mm IMAX.",
-        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/85Xs86BQ/Poster-OPPENHEIMER-(1).jpg"
       },
       {
         "title": "The Matrix: Digital Code Rain",
         "caption": "Cascading green phosphor katakana glyphs.",
-        "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/0QzKynyZ/Green-Matrix-Style-Numbers-Falling-Down-blended-with-Light-Rays.jpg"
       }
     ],
     "tv-shows": [
       {
         "title": "Stranger Things: The Upside Down Hawkins",
         "caption": "Spore-filled interdimensional reflection of the small Indiana town.",
-        "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/bYHp2bSM/Wallpaper-Stranger-Things-Welcome-to-Hawkins-(1).jpg"
       },
       {
         "title": "House of the Dragon: The Iron Throne Hall",
         "caption": "Melted swords lining the grand Targaryen court.",
-        "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/rwDBgtzK/download-(13).jpg"
       },
       {
         "title": "Peaky Blinders: The Garrison Tavern",
         "caption": "Smoke-filled Birmingham tavern illuminated by gaslight.",
-        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/rsYhtQ1p/download-(14).jpg"
       },
       {
         "title": "The Last of Us: Overgrown Boston Ruins",
         "caption": "Skyscrapers covered in vegetation decades after societal collapse.",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/15nBj00W/The-Last-of-Us-overgrowth.jpg"
       },
       {
         "title": "Breaking Bad: New Mexico Desert Cook Site",
         "caption": "An RV isolated in the vast golden mesas.",
-        "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/Kzp7941v/Walter-white-breaking-bad.jpg"
       },
       {
         "title": "Sherlock: 221B Baker Street Interior",
         "caption": "Cluttered Victorian sitting room filled with chemical vials and violin.",
-        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/C5f8m7yv/Loved-it.jpg"
       }
     ],
     "k-pop": [
       {
         "title": "BTS: Worldwide Stadium Ocean",
         "caption": "Seventy thousand purple lightsticks illuminating a global arena.",
-        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/3JxXsXgc/download-(18).jpg"
       },
       {
         "title": "aespa: Armageddon Multiverse Concept",
         "caption": "Cyberpunk sci-fi metallic aesthetic and surreal lighting.",
-        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/dtfygzQ8/armageddon-aespa-mv-icon.jpg"
       },
       {
         "title": "NewJeans: Y2K Nostalgic Record Store",
         "caption": "Retro aesthetic honoring early 2000s street fashion.",
-        "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/FKNs6ZSP/NEW-JEANS.jpg"
       },
       {
         "title": "Stray Kids: Dynamic Stage Pyrotechnics",
         "caption": "High-octane stadium energy with explosive light choreography.",
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/3NvTN4pH/Stray-Kids.jpg"
       },
       {
         "title": "BLACKPINK: Coachella Main Stage",
         "caption": "Historic headlining performance in California desert.",
-        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/Ghv4S9fW/download-(22).jpg"
       },
       {
         "title": "Seoul Nighttime Cityscape: Gangnam Lights",
         "caption": "The vibrant neon pulse of South Korea's entertainment capital.",
-        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/ZR9RPq3Q/In-our-upcoming-Quarterly-Magazine-we-feature-an-article-on-Gangnam-in-South-Korea-Over-the-last.jpg"
       }
     ],
     "comics": [
@@ -3675,32 +3675,32 @@ const FANDOM_DATA = {
       {
         "title": "Berserk: The Eclipse Red Moon",
         "caption": "Kentaro Miura's unforgettable cosmic nightmare composition.",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/y8byXvrw/download-(30).jpg"
       },
       {
         "title": "One Piece: The Grand Line Cartography",
         "caption": "Navigating unpredictable currents of the New World.",
-        "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/cChQKm34/download-(31).jpg"
       },
       {
         "title": "Chainsaw Man: The Door in Denji's Mind",
         "caption": "Surreal dreamscape holding Pochita's hidden contract.",
-        "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/rwBtwbHy/download-(32).jpg"
       },
       {
         "title": "Vinland Saga: Sunset Over the Farmland",
         "caption": "Thorfinn and Einar resting after clearing ancient roots.",
-        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/WbtD6TLY/download-(34).jpg"
       },
       {
         "title": "Tokyo Ghoul: Anteiku Coffee Shop",
         "caption": "A tranquil sanctuary for ghouls navigating human Tokyo.",
-        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/nVSrLgj9/Anteiku-(Anime).jpg"
       },
       {
         "title": "Traditional Mangaka Ink Pen and Screentone",
         "caption": "G-pen nibs, black sumi ink, and hand-cut Ben-Day dot screens.",
-        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&q=80"
+        "image": "https://i.postimg.cc/qvsp25RG/Estilo-Manga.jpg"
       }
     ]
   },
